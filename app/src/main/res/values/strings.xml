@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MysteryHelper</string>
+    <string name="press_the_button_to_get_help">Press the button to get help ...</string>
+    <string-array name="textview">
+        <item>A wealthy relative threatens to disown</item>
+        <item>Gets their dream job overseas</item>
+        <item>Loses a precious gift</item>
+        <item>A former lover moves back into town</item>
+        <item>Their small business is threatened</item>
+        <item>Gets jealous</item>
+        <item>Asks to move in together</item>
+        <item>Have a fight, look at ring sadly</item>
+    </string-array>
+    <string name="get_help">Get Help</string>
 </resources>
